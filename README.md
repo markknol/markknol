@@ -10,9 +10,7 @@
 📘 [Generative art](https://www.curioos.com/markknol)  
 🏷️ Haxe 🏷️ HTML5 🏷️ JavaScript 🏷️ ES6 🏷️ Procedural art
 
-![Mark Knol's github stats](https://github-readme-stats.vercel.app/api?username=markknol)
-
 [![Website](https://img.shields.io/website?label=blog.stroep.nl&style=for-the-badge&url=https%3A%2F%2Fblog.stroep.nl)](https://blog.stroep.nl)  
 [![Website](https://img.shields.io/website?label=interactive-fretboard.com&style=for-the-badge&url=https%3A%2F%2Finteractive-fretboard.com)](https://interactive-fretboard.com) 🎸
 
-> Support me at [patreon](https://patreon.com/markknol) or [paypal](http://paypal.me/markknol)
+> Support me too at [patreon](https://patreon.com/markknol) or [paypal](http://paypal.me/markknol)
