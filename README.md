@@ -6,7 +6,7 @@
 <a href="https://www.curioos.com/markknol"><img height="100" alt="generative art" align=right src="https://farm3.staticflickr.com/2704/4315734932_9a06cc6afb_z.jpg"/></a>
 
 📒 [Game development](https://games.stroep.nl) 📙 [Haxe contributor](https://haxe.org) 📘 [Generative art](https://www.curioos.com/markknol)  
-🏷️ Haxe 🏷️ HTML5 🏷️ JavaScript 🏷️ ES6 🏷️ Procedural art
+🏷️ Haxe 🏷️ HTML5 🏷️ JavaScript 🏷️ ES6 🏷️ Websites 🏷️ Procedural art 🏷️ [Logo design](https://logos.stroep.nl) 
 
 [![Website](https://img.shields.io/website?label=blog.stroep.nl&style=for-the-badge&url=https%3A%2F%2Fblog.stroep.nl)](https://blog.stroep.nl)  
 [![Website](https://img.shields.io/website?label=interactive-fretboard.com&style=for-the-badge&url=https%3A%2F%2Finteractive-fretboard.com)](https://interactive-fretboard.com) 🎸
