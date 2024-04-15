@@ -17,7 +17,7 @@
 * 📗 (&lt;2022) [blog](https://blog.stroep.nl) 
 
 ---
-🏷️ Generative art 🏷️ Games 🏷️ HTML5 🏷️ JavaScript 🏷️ Typescript 🏷️ ES6 🏷️ Websites 🏷️ Design 🏷️ Haxe 🏷️ Documentation
+🏷️ Generative art 🏷️ Games 🏷️ HTML5 🏷️ JavaScript 🏷️ Typescript 🏷️ Design 🏷️ Haxe 🏷️ Documentation
 
 [![Website](https://img.shields.io/website?label=blog.stroep.nl&style=for-the-badge&url=https%3A%2F%2Fblog.stroep.nl)](https://blog.stroep.nl) 
 [![Website](https://img.shields.io/website?label=interactive-fretboard.com&style=for-the-badge&url=https%3A%2F%2Finteractive-fretboard.com)](https://interactive-fretboard.com) 
