@@ -9,14 +9,15 @@
 * 🖼 [flickr](https://flickr.com/markknol)
 * 🎮 [games](https://games.stroep.nl)
 * 📔 [logos](https://logos.stroep.nl)
-* 📗 [blog](https://blog.stroep.nl) <small>&lt;2022</small>
 * ☕ [merch](https://www.redbubble.com/people/markknolart/shop)
 * 🎸 [Interactive fretboard](https://interactive-fretboard.com)
 * 🧹 [fxcollectors](https://fxcollectors.xyz)
 * 💀 [SMOLSKULLs](https://smolskulls.xyz)
 * 📙 [Haxe contributor](https://haxe.org)
+* 📗 (&lt;2022) [blog](https://blog.stroep.nl) 
+
 ---
-🏷️ Haxe 🏷️ HTML5 🏷️ JavaScript 🏷️ Typescript 🏷️ ES6 🏷️ Websites 🏷️ Design 🏷️ Documentation
+🏷️ Generative art 🏷️ Games 🏷️ HTML5 🏷️ JavaScript 🏷️ Typescript 🏷️ ES6 🏷️ Websites 🏷️ Design 🏷️ Haxe 🏷️ Documentation
 
 [![Website](https://img.shields.io/website?label=blog.stroep.nl&style=for-the-badge&url=https%3A%2F%2Fblog.stroep.nl)](https://blog.stroep.nl) 
 [![Website](https://img.shields.io/website?label=interactive-fretboard.com&style=for-the-badge&url=https%3A%2F%2Finteractive-fretboard.com)](https://interactive-fretboard.com) 
