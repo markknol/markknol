@@ -5,7 +5,6 @@
 * 🐢 [turtletoy](https://turtletoy.net/user/markknol)
 * 🎨 [generative art (fxhash)](https://fxhash.xyz/u/markknol)
 * 🎨 [generative art (objkt)](https://objkt.com/@markknol)
-* 🎨 [generative art (prints)](https://www.curioos.com/markknol)
 * 🖼 [flickr](https://flickr.com/markknol)
 * 🎮 [games](https://games.stroep.nl)
 * 📔 [logos](https://logos.stroep.nl)
